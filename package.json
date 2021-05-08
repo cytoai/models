@@ -6,7 +6,7 @@
     "@tensorflow/tfjs": "^1.1.2",
     "@types/lodash": "^4.14.149",
     "image-js": "^0.21.6",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "redux": "^4.0.1",
